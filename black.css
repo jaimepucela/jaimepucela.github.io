@@ -1,0 +1,30 @@
+body{
+    background: rgb(41, 41, 41);   
+    color: white;
+}
+#fondo{
+    background: rgb(98, 97, 97);
+}
+#background{
+    background: rgb(98, 97, 97);
+}
+#mifoto{
+    
+    border: 5px solid rgb(41, 41, 41);
+}
+.contenedor-oculto{
+    background: rgb(78, 77, 77);
+    height: 100px;
+}
+.ocultodos{
+    background: rgb(98, 97, 97);
+}
+#nav-left{
+    background: white;
+}
+#libreria{
+    background: white;
+}
+#aprender{
+    border-bottom: 14px solid white;
+}

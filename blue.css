@@ -1,0 +1,31 @@
+body{
+    background: #1F87C4;   
+    color: white;
+}
+#fondo{
+    background: #6cb6e1;
+}
+#background{
+    background: #6cb6e1;
+}
+#mifoto{
+    
+    border: 5px solid #1F87C4;
+}
+.contenedor-oculto{
+    background: #6cb6e1;
+    height: 100px;
+}
+.ocultodos{
+    background-color: #6cb6e1;
+    
+}
+#nav-left{
+    background: white;
+}
+#libreria{
+    background: white;
+}
+#aprender{
+    border-bottom: 14px solid white;
+}
